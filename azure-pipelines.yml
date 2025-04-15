@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'ModelAgent1'
+  name: 'ModelPool'
 
 steps:
 - task: Maven@3
